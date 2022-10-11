@@ -1,2 +1,2 @@
 # alura_space
-Projeto utilizando Python e Django feito através dos cursos da Alura!
+Projeto utilizando Python, Django, Javascript e CSS, através dos cursos da Alura! 
